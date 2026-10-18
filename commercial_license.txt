@@ -1,20 +1,45 @@
 COMMERCIAL SOFTWARE LICENSE AGREEMENT
+Flutter AI Starter Kit
 
 Copyright (c) 2026 Dohama Systems. All rights reserved.
 
 1. GRANT OF LICENSE
-Subject to the terms of this agreement, Dohama Systems grants the licensee a non-exclusive, non-transferable commercial license to use, modify, and integrate the "Flutter AI Starter Kit" source code.
+Subject to the terms of this agreement, Dohama Systems grants the licensee a
+non-exclusive, non-transferable commercial license to use, modify and integrate
+the "Flutter AI Starter Kit" source code. The scope of the license depends on
+the license option purchased:
 
-2. PERMITTED USES
-- You MAY use this source code to build, design, and deploy unlimited personal, client, or commercial end-user applications.
-- You MAY modify, customize, and combine the source code with other software for your applications.
+  a) SINGLE USE LICENSE
+     You MAY use the source code to build, deploy and publish ONE (1) personal,
+     client or commercial end-user application.
 
-3. RESTRICTIONS
-- You CANNOT redistribute, resell, sublicense, lease, or share the original source code or any modified version thereof as a template, starter kit, boilerplate, or code asset.
-- You CANNOT make the source code publicly available in any public repository, open-source project, or download portal.
-- You CANNOT extract or re-use individual software components or UI assets to create competing commercial starter kits.
+  b) MULTI USE LICENSE
+     You MAY use the source code to build, deploy and publish an UNLIMITED number
+     of personal, client or commercial end-user applications.
+
+2. PERMITTED USES (both licenses)
+- You MAY modify, customize and combine the source code with other software for
+  your applications.
+- You MAY sell, monetize and distribute the compiled end-user applications you
+  build with the source code.
+
+3. RESTRICTIONS (both licenses)
+- You CANNOT redistribute, resell, sublicense, lease or share the original source
+  code or any modified version of it as a template, starter kit, boilerplate or
+  code asset.
+- You CANNOT make the source code publicly available in any public repository,
+  open-source project or download portal.
+- You CANNOT extract or re-use individual software components or UI assets to
+  create competing commercial starter kits.
+- A Single Use License CANNOT be used for more than one application. For
+  additional applications, upgrade to the Multi Use License.
 
 4. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL DOHAMA SYSTEMS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL DOHAMA SYSTEMS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For support or enterprise licensing inquiries, please contact Dohama Systems.
+For support or licensing questions, contact support@dohamasystems.com.
