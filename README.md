@@ -7,7 +7,10 @@
 A ready-to-run Flutter template with AI chat, auth, chat history and a paywall,
 so you can skip 40+ hours of setup and focus on what makes your app unique.
 
+<a href="https://flutter-ai-starter-kit-demo.dooettli.workers.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20Try%20the-Live%20Demo-22C55E?style=for-the-badge" alt="Try the live demo" /></a>
 <a href="https://dohamasystems.lemonsqueezy.com/checkout/buy/32796b5b-7827-4cd1-b351-273312e5b628"><img src="https://img.shields.io/badge/Get%20the%20Kit-from%20CHF%2099-5B67CA?style=for-the-badge" alt="Get the Kit" /></a>
+
+<sub>No sign-up needed: the demo logs you in as a guest. Real AI answers, limited to 15 messages per day.</sub>
 
 ![Flutter](https://img.shields.io/badge/Flutter-iOS%20%7C%20Android%20%7C%20Web-02569B?logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Auth%20%7C%20Postgres%20%7C%20Storage-3ECF8E?logo=supabase&logoColor=white)
