@@ -62,6 +62,12 @@ so you can skip 40+ hours of setup and focus on what makes your app unique.
 - All keys live in one `.env` file
 - Missing a key? The app shows a clear setup screen instead of crashing
 
+### 🚀 Production Mode Included
+- A ready-made **Supabase Edge Function** keeps your OpenAI key on the server, it never ships inside your app
+- **Daily limit per user** (default 50 AI messages, configurable), so nobody can burn through your OpenAI credit
+- Switch it on with **one line** in `.env`, streaming and the chat UI work exactly the same
+- Deploy the function right in the Supabase dashboard, no CLI needed
+
 ---
 
 ## 🧩 Under the Hood
@@ -80,7 +86,7 @@ Tokens are collected and pushed to the UI at most every 50 ms, and only the bubb
 |---|---|
 | App | Flutter / Dart (iOS, Android, Web) |
 | State & Navigation | Riverpod, go_router |
-| Backend | Supabase (Auth, Postgres, Row Level Security, Storage) |
+| Backend | Supabase (Auth, Postgres, Row Level Security, Storage, Edge Functions) |
 | AI | OpenAI API (GPT-4o, GPT-4o mini) |
 | Payments | RevenueCat (prepared) |
 | Config | flutter_dotenv |
@@ -95,6 +101,8 @@ Tokens are collected and pushed to the UI at most every 50 ms, and only the bubb
 4. `flutter pub get` → `flutter run` 🎉
 
 A step-by-step README with a troubleshooting table is included. Setup takes about 15 minutes.
+
+Ready to publish? The README walks you through switching to **production mode** (edge function + daily limit) in a few more minutes.
 
 > **Note:** This repository is a showcase. The full source code is delivered as a `.zip` after purchase.
 
@@ -128,7 +136,7 @@ Only to build for iOS. Android and Web work on Windows, macOS and Linux.
 A free Supabase project and an OpenAI API key. RevenueCat is only needed once you switch the paywall to real purchases.
 
 **Is my OpenAI key safe?**
-For development, the key is read from `.env`. Before publishing your app, we recommend moving the OpenAI call into a Supabase Edge Function so the key stays on the server. The README explains where to change it.
+During development, the app calls OpenAI directly with the key from `.env`. That's fine for testing, but anything inside an app can be extracted. For your release, the kit includes a production mode: a ready-made Supabase Edge Function adds the key on the server and limits requests per user. The README explains the switch step by step.
 
 **Can I sell apps I build with it?**
 Yes. Single Use covers one app, Multi Use covers unlimited apps. You can't resell the kit itself as a template.
