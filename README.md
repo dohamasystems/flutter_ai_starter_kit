@@ -149,6 +149,6 @@ Yes. Single Use covers one app, Multi Use covers unlimited apps. You can't resel
 
 <div align="center">
 
-Built by **[Dohama Systems](https://dohamasystems.com/)** · Questions? **support@dohamasystems.com**
+Built by **[Dohama Systems](https://dohamasystems.com/)** · [LinkedIn](https://www.linkedin.com/company/dohamasystems) · Questions? **support@dohamasystems.com**
 
 </div>
