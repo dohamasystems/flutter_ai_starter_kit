@@ -8,7 +8,8 @@ A ready-to-run Flutter template with AI chat, auth, chat history and a paywall,
 so you can skip 40+ hours of setup and focus on what makes your app unique.
 
 <a href="https://flutter-ai-starter-kit-demo.dooettli.workers.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20Try%20the-Live%20Demo-22C55E?style=for-the-badge" alt="Try the live demo" /></a>
-<a href="https://dohamasystems.lemonsqueezy.com/checkout/buy/32796b5b-7827-4cd1-b351-273312e5b628"><img src="https://img.shields.io/badge/Get%20the%20Kit-from%20CHF%2099-5B67CA?style=for-the-badge" alt="Get the Kit" /></a>
+<a href="https://dohamasystems.com/kit/"><img src="https://img.shields.io/badge/Get%20the%20Kit-from%20CHF%2099-5B67CA?style=for-the-badge" alt="Get the Kit" /></a>
+<a href="https://dohamasystems.com/"><img src="https://img.shields.io/badge/Website-dohamasystems.com-0F1A23?style=for-the-badge" alt="Dohama Systems website" /></a>
 
 <sub>No sign-up needed: the demo logs you in as a guest. Real AI answers, limited to 15 messages per day.</sub>
 
@@ -119,7 +120,10 @@ Ready to publish? The README walks you through switching to **production mode** 
 
 <div align="center">
 
-<a href="https://dohamasystems.lemonsqueezy.com/checkout/buy/32796b5b-7827-4cd1-b351-273312e5b628"><img src="https://img.shields.io/badge/Buy%20Now-Lemon%20Squeezy-FFC233?style=for-the-badge" alt="Buy now on Lemon Squeezy" /></a>
+<a href="https://dohamasystems.lemonsqueezy.com/checkout/buy/726388ad-d1e6-4e9d-8a60-4564e8004248"><img src="https://img.shields.io/badge/Single%20Use-CHF%2099-FFC233?style=for-the-badge" alt="Buy Single Use on Lemon Squeezy" /></a>
+<a href="https://dohamasystems.lemonsqueezy.com/checkout/buy/32796b5b-7827-4cd1-b351-273312e5b628"><img src="https://img.shields.io/badge/Multi%20Use-CHF%20249-FFC233?style=for-the-badge" alt="Buy Multi Use on Lemon Squeezy" /></a>
+
+<sub>Founder price: use code <b>FOUNDER</b> at checkout for 50% off (first 10 buyers). More details on <a href="https://dohamasystems.com/kit/">dohamasystems.com/kit</a>.</sub>
 
 </div>
 
@@ -145,6 +149,6 @@ Yes. Single Use covers one app, Multi Use covers unlimited apps. You can't resel
 
 <div align="center">
 
-Built by **Dohama Systems** · Questions? **support@dohamasystems.com**
+Built by **[Dohama Systems](https://dohamasystems.com/)** · Questions? **support@dohamasystems.com**
 
 </div>
